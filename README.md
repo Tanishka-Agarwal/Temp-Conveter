@@ -1,2 +1,2 @@
-# Temp-Conveter
+# Temp-Converter
 This is my first repository
